@@ -67,7 +67,7 @@ $ git clone https://github.com/GUPTA-SHAKEL/ZMBF.git
 ```python2
 $ cd ZMBF
 $ git pull
-$ python2 mark.co
+$ python2 mark.so
 ```
 #### :closed_lock_with_key: NEED APPROVAL ⁉️
 
